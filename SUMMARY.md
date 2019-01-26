@@ -12,6 +12,7 @@
 * [Basic Software Design with Flowchart](the-fundamentals/basic-software-design-with-flowchart.md)
 * [Pythonic Data types](the-fundamentals/pythonic-data-types.md)
 * [Basic Operators](the-fundamentals/basic-operators.md)
+* [Decision Making](the-fundamentals/decision-making.md)
 
 ## References
 
